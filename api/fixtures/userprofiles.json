@@ -1,0 +1,11 @@
+[
+    {
+        "model": "api.userprofile",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "This is an example bio.",
+            "created_at": "2023-01-01T00:00:00Z"
+        }
+    }
+]
